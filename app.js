@@ -13,5 +13,7 @@ git branch
 git checkout -b mybranch
 git add .
 git clone https://github.com/mintesnotderib/personal-profile.git
+ git config --global user.email "me.com"
+  git config --global user.name "Your Name
 */
 
